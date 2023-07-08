@@ -1,0 +1,114 @@
+﻿Date,Beach ID,Beach Name,Latitude,Longitude,Sampling Route,Sampling Type,Enterococcus (colonies/100 mL),Temperature (°C),pH,Observations
+21-Jun-23,RW-38,Muelle de Arecibo,18.4792583,-66.7004667,Route: 6: Arecibo - Vega Alta,Routine,74,28.10,8.01,
+21-Jun-23,RW-39,Mar Chiquita,18.4729167,-66.4856556,Route: 6: Arecibo - Vega Alta,Routine,10,28.90,8.09,
+21-Jun-23,RW-23,Balneario de Puerto Nuevo,18.4913667,-66.3990444,Route: 6: Arecibo - Vega Alta,Routine,86,28.90,8.05,
+21-Jun-23,RW-17,Balneario Cerro Gordo or Javier Calderón Nieves,18.48125,-66.3406556,Route: 6: Arecibo - Vega Alta,Routine,10,29.20,8.10/8.09,
+21-Jun-23,RW-18,Balneario Manuel “Nolo” Morales or Sardinera,18.4746944,-66.2808917,Route 1: Dorado - Loíza,Routine,10,28.10,8.24,
+21-Jun-23,RW-19,Balneario Punta Salinas,18.4716583,-66.1859944,Route 1: Dorado - Loíza,Routine,31,27.90,8.19,
+21-Jun-23,RW-20A,Balneario El Escambrón,18.4672361,-66.0899583,Route 1: Dorado - Loíza,Routine,350,27.20,8.11,
+21-Jun-23,RW-25A,Playa Sixto Escobar,18.4667306,-66.0866667,Route 1: Dorado - Loíza,Routine,10,27.90,8.15,
+21-Jun-23,RW-26,Playita del Condado,18.4611306,-66.0824083,Route 1: Dorado - Loíza,Routine,<10,29.50,8.18,
+21-Jun-23,RW-27,Ocean Park,18.4530111,-66.0488806,Route 1: Dorado - Loíza,Routine,<10,29.00,8.19,
+21-Jun-23,RW-28,Playa El Alambique,18.4440917,-66.02215,Route 1: Dorado - Loíza,Routine,20,29.10,8.23,
+21-Jun-23,RW-21C,Balneario de Carolina,18.4459889,-66.0035722,Route 1: Dorado - Loíza,Routine,20,29.40,8.23,
+21-Jun-23,RW-29,Vacía Talega,18.4478583,-65.9062306,Route 1: Dorado - Loíza,Routine,259,29.50,8.24,
+21-Jun-23,RW-7,Balneario Punta Guilarte,17.9620417,-66.04,Route 2: Arroyo - Luquillo,Routine,30,29.40,8,
+21-Jun-23,RW-6,Balneario de Patillas,17.973975,-65.9889806,Route 2: Arroyo - Luquillo,Routine,75,29.40,7.82,
+21-Jun-23,RW-30,Playa Guayanés,18.0626944,-65.8191944,Route 2: Arroyo - Luquillo,Routine,31,29.10,8.01,
+21-Jun-23,RW-4,Balneario Punta SantiAug,18.1584139,-65.7551861,Route 2: Arroyo - Luquillo,Routine,31,29.40,8.05,
+21-Jun-23,RW-31,Tropical Beach,18.1869278,-65.7259667,Route 2: Arroyo - Luquillo,Routine,482,29.20,8.02,
+21-Jun-23,RW-2,Balneario Seven Seas,18.3692667,-65.6360722,Route 2: Arroyo - Luquillo,Routine,<10,28.70,8.15,
+21-Jun-23,RW-32,Playa Azul,18.3818667,-65.7184583,Route 2: Arroyo - Luquillo,Routine,<10,29.50,8.13,
+21-Jun-23,RW-1A,Balneario La Monserrate,18.3855917,-65.7294722,Route 2: Arroyo - Luquillo,Routine,<10,29.60,8.11,
+20-Jun-23,RW-37,Villa Lamela,18.0645333,-67.1975278,Route 4: Cabo Rojo,Routine,10,29.20,7.97,
+20-Jun-23,RW-8,Playa Buyé,18.0488722,-67.198625,Route 4: Cabo Rojo,Routine,<10,29.20,8.1,
+20-Jun-23,RW-13,Balneario de Boquerón,18.0194417,-67.1722444,Route 4: Cabo Rojo,Routine,10,30.10,8.25,
+20-Jun-23,RW-14A,Playa Moja Casabe,17.98581,-67.21459,Route 4: Cabo Rojo,Routine,<10,29.90,8.2,
+20-Jun-23,RW-12B,Playa el Combate,17.9747944,-67.2129056,Route 4: Cabo Rojo,Routine,<10,30.20,8.17,
+20-Jun-23,RW-15,Balneario de Añasco or Balneario Tres Hermanos,18.2879972,-67.1939222,Route 5: Añasco - Aguadilla,Routine,97,29.40,7.94,
+20-Jun-23,RW-5,Balneario de Rincón,18.340925,-67.2560056,Route 5: Añasco - Aguadilla,Routine,823,29.10,8,
+20-Jun-23,RW-22,Pico de Piedra,18.3843639,-67.2129889,Route 5: Añasco - Aguadilla,Routine,2224,29.10,8.01,
+20-Jun-23,RW-16,Balneario Crash Boat,18.4576667,-67.1637778,Route 5: Añasco - Aguadilla,Routine,683,30.00,8.05,
+20-Jun-23,RW-33,Playita Rosada,17.9717167,-66.0315,Route 3: Lajas - Salinas,Routine,10,29.00,8.05,
+20-Jun-23,RW-10,Playa Santa,17.9377111,-66.9551972,Route 3: Lajas - Salinas,Routine,31,30.00,8,
+20-Jun-23,RW-9,Caña Gorda,17.9525306,-66.8845611,Route 3: Lajas - Salinas,Routine,10,30.40,8.08,
+20-Jun-23,RW-34,Playa Cabullón,17.9692833,-66.6027278,Route 3: Lajas - Salinas,Routine,<10,31.10,8.19,
+20-Jun-23,RW-36,Balneario de Salinas,17.9775889,-66.3324972,Route 3: Lajas - Salinas,Routine,<10,31.60,8.22,
+30-May-23,RW-38,Muelle de Arecibo,18.4792583,-66.7004667,Route: 6: Arecibo - Vega Alta,Routine,10,27.00,Re-sampling,
+30-May-23,RW-39,Mar Chiquita,18.4729167,-66.4856556,Route: 6: Arecibo - Vega Alta,Routine,<10,28.20,Re-sampling,
+30-May-23,RW-18,Balneario Manuel “Nolo” Morales or Sardinera,18.4746944,-66.2808917,Route 1: Dorado - Loíza,Routine,<10,29.90,Re-sampling,
+30-May-23,RW-19,Balneario Punta Salinas,18.4716583,-66.1859944,Route 1: Dorado - Loíza,Routine,<10,29.40,Re-sampling,
+30-May-23,RW-32,Playa Azul,18.3818667,-65.7184583,Route 2: Arroyo - Luquillo,Routine,10,27.00,Re-sampling,
+30-May-23,RW-23,Balneario de Puerto Nuevo,18.4913667,-66.3990444,Route: 6: Arecibo - Vega Alta,Routine,10,28.50,Re-sampling,
+24-May-23,RW-7,Balneario Punta Guilarte,17.9620417,-66.04,Route 2: Arroyo - Luquillo,Routine,<10,28.50,8.13,resultado preliminar
+24-May-23,RW-6,Balneario de Patillas,17.973975,-65.9889806,Route 2: Arroyo - Luquillo,Routine,<10,28.60,8.08,resultado preliminar
+24-May-23,RW-30,Playa Guayanés,18.0626944,-65.8191944,Route 2: Arroyo - Luquillo,Routine,<10,29.00,8.09,resultado preliminar
+24-May-23,RW-4,Balneario Punta SantiAug,18.1584139,-65.7551861,Route 2: Arroyo - Luquillo,Routine,52,29.40,8.07,resultado preliminar
+24-May-23,RW-31,Tropical Beach,18.1869278,-65.7259667,Route 2: Arroyo - Luquillo,Routine,20,29.90,8.04,resultado preliminar
+24-May-23,RW-2,Balneario Seven Seas,18.3692667,-65.6360722,Route 2: Arroyo - Luquillo,Routine,52,28.50,8.28,resultado preliminar
+24-May-23,RW-32,Playa Azul,18.3818667,-65.7184583,Route 2: Arroyo - Luquillo,Routine,323,28.30,8.23,resultado preliminar
+24-May-23,RW-1A,Balneario La Monserrate,18.3855917,-65.7294722,Route 2: Arroyo - Luquillo,Routine,10,28.60,8.2,resultado preliminar
+24-May-23,RW-33,Playita Rosada,17.9717167,-66.0315,Route 3: Lajas - Salinas,Routine,51,27.30,8.03,resultado preliminar
+24-May-23,RW-10,Playa Santa,17.9377111,-66.9551972,Route 3: Lajas - Salinas,Routine,10,27.50,8.04,resultado preliminar
+24-May-23,RW-9,Caña Gorda,17.9525306,-66.8845611,Route 3: Lajas - Salinas,Routine,10,27.90,7.99,resultado preliminar
+24-May-23,RW-34,Playa Cabullón,17.9692833,-66.6027278,Route 3: Lajas - Salinas,Routine,10,28.00,8.07,resultado preliminar
+24-May-23,RW-36,Balneario de Salinas,17.9775889,-66.3324972,Route 3: Lajas - Salinas,Routine,<10,28.00,8.11,resultado preliminar
+23-May-23,RW-37,Villa Lamela,18.0645333,-67.1975278,Route 4: Cabo Rojo,Routine,20,28.20,8.18,resultado preliminar
+23-May-23,RW-8,Playa Buyé,18.0488722,-67.198625,Route 4: Cabo Rojo,Routine,30,28.60,8.14,resultado preliminar
+23-May-23,RW-13,Balneario de Boquerón,18.0194417,-67.1722444,Route 4: Cabo Rojo,Routine,<10,29.20,8.18,resultado preliminar
+23-May-23,RW-14A,Playa Moja Casabe,17.98581,-67.21459,Route 4: Cabo Rojo,Routine,<10,29.80,8.2,resultado preliminar
+23-May-23,RW-12B,Playa el Combate,17.9747944,-67.2129056,Route 4: Cabo Rojo,Routine,10,29.80,8.16,resultado preliminar
+23-May-23,RW-15,Balneario de Añasco or Balneario Tres Hermanos,18.2879972,-67.1939222,Route 5: Añasco - Aguadilla,Routine,<10,29.80,8.06,resultado preliminar
+23-May-23,RW-5,Balneario de Rincón,18.340925,-67.2560056,Route 5: Añasco - Aguadilla,Routine,<10,28.50,8.18,resultado preliminar
+23-May-23,RW-22,Pico de Piedra,18.3843639,-67.2129889,Route 5: Añasco - Aguadilla,Routine,<10,28.20,8.17,resultado preliminar
+23-May-23,RW-16,Balneario Crash Boat,18.4576667,-67.1637778,Route 5: Añasco - Aguadilla,Routine,<10,28.60,8.22,resultado preliminar
+22-May-23,RW-18,Balneario Manuel “Nolo” Morales or Sardinera,18.4746944,-66.2808917,Route 1: Dorado - Loíza,Routine,173,27.60,8.02,resultado preliminar
+22-May-23,RW-19,Balneario Punta Salinas,18.4716583,-66.1859944,Route 1: Dorado - Loíza,Routine,74,27.20,8.15,resultado preliminar
+22-May-23,RW-20A,Balneario El Escambrón,18.4672361,-66.0899583,Route 1: Dorado - Loíza,Routine,<10,26.90,8.17,resultado preliminar
+22-May-23,RW-25A,Playa Sixto Escobar,18.4667306,-66.0866667,Route 1: Dorado - Loíza,Routine,10,27.40,8.15,resultado preliminar
+22-May-23,RW-26,Playita del Condado,18.4611306,-66.0824083,Route 1: Dorado - Loíza,Routine,<10,27.60,8.2,resultado preliminar
+22-May-23,RW-27,Ocean Park,18.4530111,-66.0488806,Route 1: Dorado - Loíza,Routine,10,27.30,8.2,resultado preliminar
+22-May-23,RW-28,Playa El Alambique,18.4440917,-66.02215,Route 1: Dorado - Loíza,Routine,10,28.30,8.2,resultado preliminar
+22-May-23,RW-21C,Balneario de Carolina,18.4459889,-66.0035722,Route 1: Dorado - Loíza,Routine,<10,28.40,8.21,resultado preliminar
+22-May-23,RW-29,Vacía Talega,18.4478583,-65.9062306,Route 1: Dorado - Loíza,Routine,<10,28.40,8.2,resultado preliminar
+22-May-23,RW-38,Muelle de Arecibo,18.4792583,-66.7004667,Route: 6: Arecibo - Vega Alta,Routine,134,26.50,7.99,resultado preliminar
+22-May-23,RW-39,Mar Chiquita,18.4729167,-66.4856556,Route: 6: Arecibo - Vega Alta,Routine,173,26.90,8.03,resultado preliminar
+22-May-23,RW-23,Balneario de Puerto Nuevo,18.4913667,-66.3990444,Route: 6: Arecibo - Vega Alta,Routine,75,27.00,8.04,resultado preliminar
+22-May-23,RW-17,Balneario Cerro Gordo or Javier Calderón Nieves,18.48125,-66.3406556,Route: 6: Arecibo - Vega Alta,Routine,41,28.00,8.1,resultado preliminar
+15-May-23,RW-7,Balneario Punta Guilarte,17.9620417,-66.04,Route 2: Arroyo - Luquillo,Routine,<10,28.40,Re-sampling,
+15-May-23,RW-30,Playa Guayanés,18.0626944,-65.8191944,Route 2: Arroyo - Luquillo,Routine,92,28.50,Re-sampling,
+9-May-23,RW-18,Balneario Manuel “Nolo” Morales or Sardinera,18.4746944,-66.2808917,Route 1: Dorado - Loíza,Routine,10,26.90,7.93,
+9-May-23,RW-19,Balneario Punta Salinas,18.4716583,-66.1859944,Route 1: Dorado - Loíza,Routine,10,26.50,8.08,
+9-May-23,RW-20A,Balneario El Escambrón,18.4672361,-66.0899583,Route 1: Dorado - Loíza,Routine,<10,29.00,8.13,
+9-May-23,RW-25A,Playa Sixto Escobar,18.4667306,-66.0866667,Route 1: Dorado - Loíza,Routine,20,28.50,8.11,
+9-May-23,RW-26,Playita del Condado,18.4611306,-66.0824083,Route 1: Dorado - Loíza,Routine,<10,28.00,8.11,
+9-May-23,RW-27,Ocean Park,18.4530111,-66.0488806,Route 1: Dorado - Loíza,Routine,10,28.60,8.16,
+9-May-23,RW-28,Playa El Alambique,18.4440917,-66.02215,Route 1: Dorado - Loíza,Routine,10,29.30,8.16,
+9-May-23,RW-21C,Balneario de Carolina,18.4459889,-66.0035722,Route 1: Dorado - Loíza,Routine,<10,29.10,8.2,
+9-May-23,RW-29,Vacía Talega,18.4478583,-65.9062306,Route 1: Dorado - Loíza,Routine,<10,29.10,8.17,
+9-May-23,RW-7,Balneario Punta Guilarte,17.9620417,-66.04,Route 2: Arroyo - Luquillo,Routine,161,29.40,7.96,
+9-May-23,RW-6,Balneario de Patillas,17.973975,-65.9889806,Route 2: Arroyo - Luquillo,Routine,10,29.20,7.97,
+9-May-23,RW-30,Playa Guayanés,18.0626944,-65.8191944,Route 2: Arroyo - Luquillo,Routine,72,30.40,7.89,
+9-May-23,RW-4,Balneario Punta SantiAug,18.1584139,-65.7551861,Route 2: Arroyo - Luquillo,Routine,20,30.80,8.08,
+9-May-23,RW-31,Tropical Beach,18.1869278,-65.7259667,Route 2: Arroyo - Luquillo,Routine,10,30.60,8.09,
+9-May-23,RW-2,Balneario Seven Seas,18.3692667,-65.6360722,Route 2: Arroyo - Luquillo,Routine,<10,29.80,8.17,
+9-May-23,RW-32,Playa Azul,18.3818667,-65.7184583,Route 2: Arroyo - Luquillo,Routine,<10,29.50,8.17,
+9-May-23,RW-1A,Balneario La Monserrate,18.3855917,-65.7294722,Route 2: Arroyo - Luquillo,Routine,<10,28.80,8.18,
+9-May-23,RW-38,Muelle de Arecibo,18.4792583,-66.7004667,Route: 6: Arecibo - Vega Alta,Routine,10,27.50,8.17,
+9-May-23,RW-39,Mar Chiquita,18.4729167,-66.4856556,Route: 6: Arecibo - Vega Alta,Routine,<10,27.90,8.15,
+9-May-23,RW-23,Balneario de Puerto Nuevo,18.4913667,-66.3990444,Route: 6: Arecibo - Vega Alta,Routine,<10,27.20,8.12,
+9-May-23,RW-17,Balneario Cerro Gordo or Javier Calderón Nieves,18.48125,-66.3406556,Route: 6: Arecibo - Vega Alta,Routine,<10,27.70,8.15,
+8-May-23,RW-33,Playita Rosada,17.9717167,-66.0315,Route 3: Lajas - Salinas,Routine,<10,28.40,8.05,
+8-May-23,RW-10,Playa Santa,17.9377111,-66.9551972,Route 3: Lajas - Salinas,Routine,<10,28.70,8.1,
+8-May-23,RW-9,Caña Gorda,17.9525306,-66.8845611,Route 3: Lajas - Salinas,Routine,10,29.10,8.18,
+8-May-23,RW-34,Playa Cabullón,17.9692833,-66.6027278,Route 3: Lajas - Salinas,Routine,20,30.20,8.24,
+8-May-23,RW-36,Balneario de Salinas,17.9775889,-66.3324972,Route 3: Lajas - Salinas,Routine,10,30.10,8.23,
+8-May-23,RW-37,Villa Lamela,18.0645333,-67.1975278,Route 4: Cabo Rojo,Routine,<10,28.30,8.1,
+8-May-23,RW-8,Playa Buyé,18.0488722,-67.198625,Route 4: Cabo Rojo,Routine,10,29.20,8.1,
+8-May-23,RW-13,Balneario de Boquerón,18.0194417,-67.1722444,Route 4: Cabo Rojo,Routine,10,30.30,8.22,
+8-May-23,RW-14A,Playa Moja Casabe,17.98581,-67.21459,Route 4: Cabo Rojo,Routine,<10,30.20,8.25,
+8-May-23,RW-12B,Playa el Combate,17.9747944,-67.2129056,Route 4: Cabo Rojo,Routine,10,29.90,8,
+8-May-23,RW-15,Balneario de Añasco or Balneario Tres Hermanos,18.2879972,-67.1939222,Route 5: Añasco - Aguadilla,Routine,<10,28.50,8.06,
+8-May-23,RW-5,Balneario de Rincón,18.340925,-67.2560056,Route 5: Añasco - Aguadilla,Routine,30,28.30,8.09,
+8-May-23,RW-22,Pico de Piedra,18.3843639,-67.2129889,Route 5: Añasco - Aguadilla,Routine,<10,29.40,8.09,
+8-May-23,RW-16,Balneario Crash Boat,18.4576667,-67.1637778,Route 5: Añasco - Aguadilla,Routine,20,29.70,8.1,
